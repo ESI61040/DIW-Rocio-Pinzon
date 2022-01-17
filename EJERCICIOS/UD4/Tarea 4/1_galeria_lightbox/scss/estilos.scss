@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "got";
+    src: url("../fonts/got.ttf");
+}
+
+*{
+    font-family: "got";
+}
+
+#contenedor{
+    display: flex;
+    gap: 1em; 
+}
