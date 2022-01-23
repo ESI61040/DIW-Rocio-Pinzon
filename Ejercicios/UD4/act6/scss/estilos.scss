@@ -29,12 +29,12 @@ $height: 350px;
 
     }
 
-    #up{
+    #down{
         background-position-x: 2*$width;
         background-position-y: -($width);
     }
 
-    #down{
+    #up{
         background-position-x: $width;
         background-position-y: -($width);
     }
