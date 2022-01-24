@@ -27,12 +27,12 @@
   background-position-y: -350px;
 }
 
-#contenedor #up {
+#contenedor #down {
   background-position-x: 700px;
   background-position-y: -350px;
 }
 
-#contenedor #down {
+#contenedor #up {
   background-position-x: 350px;
   background-position-y: -350px;
 }
