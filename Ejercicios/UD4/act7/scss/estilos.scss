@@ -18,24 +18,24 @@ $height: 350px;
         background-position-y: 0px;
     }
 
-    #pause{
-        background-position-x: -3*($width);
+    #retroceder{
+        background-position-x: 3*($width);
         background-position-y: 0px;
     }
 
-    #mute{
-        background-position-x: -($width);
-        background-position-y: -($width);
+    #adelantar{
+        background-position-x: 2*($width);
+        background-position-y: 0px;
 
     }
 
-    #down{
-        background-position-x: 2*$width;
-        background-position-y: -($width);
-    }
-
-    #up{
+    #pause{
         background-position-x: $width;
+        background-position-y: 0px;
+    }
+
+    #repetir{
+        background-position-x: 0px;
         background-position-y: -($width);
     }
 
