@@ -1,0 +1,8 @@
+@font-face {
+  font-family: Got;
+  src: url("../fonts/got.ttf");
+}
+
+* {
+  font-family: got;
+}
